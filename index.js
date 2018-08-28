@@ -13,3 +13,7 @@ function happyHolidayTo(holiday, name) {
 }
 happyHolidayTo ('Easter');
 happyHolidayTo ('Adrian');
+
+function holidaycountdown(holiday, days) {
+  return
+}
