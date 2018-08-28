@@ -14,8 +14,8 @@ function happyHolidayTo(holiday, name) {
 happyHolidayTo ('Easter');
 happyHolidayTo ('Adrian');
 
-function holidaycountdown(holiday, days) {
+function holidayCountdown(holiday, days) {
   return `It's ${days} days until ${holiday}!`;
 }
-holidaycountdown (parseInt('12'));
+holidayCountdown (parseInt('12'));
 holidayCountdown ('Easter');
