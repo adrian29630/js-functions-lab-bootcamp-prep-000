@@ -4,5 +4,5 @@ return "Happy holidays!";
 }
 
 function happyHolidaysTo(firstName) {
- return 
+ return `$
 happyHolidaysTo('Adrian');
