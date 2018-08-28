@@ -4,4 +4,4 @@ return "Happy holidays!";
 }
 
 function happyHolidaysTo(Adrian) {
-  return `$
+  return `Happy Holidays
