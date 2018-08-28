@@ -4,6 +4,5 @@ return "Happy holidays!";
 }
 
 function happyHolidaysTo(firstName) {
-happyHolidaysTo('Adrian');
    return `${firstName}!`;
 }
