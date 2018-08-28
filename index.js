@@ -12,4 +12,4 @@ function happyHolidaysTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`;
 }
 happyHolidaysTo ('Easter');
-happyHolidaysTo ('name');
+happyHolidaysTo ('Adrian');
